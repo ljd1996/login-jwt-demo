@@ -1,0 +1,9 @@
+token:
+  secret: hearing-secret
+  expiration: 600
+  header: TokenHeader
+spring:
+  thymeleaf:
+    mode: HTML5
+    encoding: UTF-8
+    content-type: text/html
